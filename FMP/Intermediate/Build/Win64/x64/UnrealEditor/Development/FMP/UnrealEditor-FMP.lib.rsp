@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FMP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\2102114\BA3b\FMP\Intermediate\Build\Win64\x64\FMPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\2102114\BA3b\FMP\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMP\FMP.init.gen.cpp.obj"
+"D:\2102114\BA3b\FMP\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMP\FMPCharacter.gen.cpp.obj"
+"D:\2102114\BA3b\FMP\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMP\FMPGameMode.gen.cpp.obj"
+"D:\2102114\BA3b\FMP\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMP\FMP.cpp.obj"
+"D:\2102114\BA3b\FMP\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMP\FMPCharacter.cpp.obj"
+"D:\2102114\BA3b\FMP\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMP\FMPGameMode.cpp.obj"
+"D:\2102114\BA3b\FMP\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMP\Default.rc2.res"
+/OUT:"D:\2102114\BA3b\FMP\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMP\UnrealEditor-FMP.lib"
