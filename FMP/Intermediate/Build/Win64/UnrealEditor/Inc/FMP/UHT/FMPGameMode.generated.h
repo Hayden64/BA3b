@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FMP_FMPGameMode_generated_h
 
-#define FID_FMP_Source_FMP_FMPGameMode_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAFMPGameMode(); \
 	friend struct Z_Construct_UClass_AFMPGameMode_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AFMPGameMode)
 
 
-#define FID_FMP_Source_FMP_FMPGameMode_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AFMPGameMode(AFMPGameMode&&); \
@@ -35,12 +35,12 @@ public: \
 	FMP_API virtual ~AFMPGameMode();
 
 
-#define FID_FMP_Source_FMP_FMPGameMode_h_9_PROLOG
-#define FID_FMP_Source_FMP_FMPGameMode_h_12_GENERATED_BODY \
+#define FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_9_PROLOG
+#define FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_FMP_Source_FMP_FMPGameMode_h_12_INCLASS_NO_PURE_DECLS \
-	FID_FMP_Source_FMP_FMPGameMode_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> FMP_API UClass* StaticClass<class AFMPGameMode>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_FMP_Source_FMP_FMPGameMode_h
+#define CURRENT_FILE_ID FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -78,14 +78,14 @@ AFMPGameMode::~AFMPGameMode() {}
 // End Class AFMPGameMode
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_FMP_Source_FMP_FMPGameMode_h_Statics
+struct Z_CompiledInDeferFile_FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AFMPGameMode, AFMPGameMode::StaticClass, TEXT("AFMPGameMode"), &Z_Registration_Info_UClass_AFMPGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AFMPGameMode), 1931747628U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FMP_Source_FMP_FMPGameMode_h_1662063152(TEXT("/Script/FMP"),
-	Z_CompiledInDeferFile_FID_FMP_Source_FMP_FMPGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FMP_Source_FMP_FMPGameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_1662063152(TEXT("/Script/FMP"),
+	Z_CompiledInDeferFile_FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPGameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

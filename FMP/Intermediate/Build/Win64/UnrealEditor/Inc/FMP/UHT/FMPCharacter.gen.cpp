@@ -171,14 +171,14 @@ AFMPCharacter::~AFMPCharacter() {}
 // End Class AFMPCharacter
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_FMP_Source_FMP_FMPCharacter_h_Statics
+struct Z_CompiledInDeferFile_FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AFMPCharacter, AFMPCharacter::StaticClass, TEXT("AFMPCharacter"), &Z_Registration_Info_UClass_AFMPCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AFMPCharacter), 3260575007U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_FMP_Source_FMP_FMPCharacter_h_2244222080(TEXT("/Script/FMP"),
-	Z_CompiledInDeferFile_FID_FMP_Source_FMP_FMPCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_FMP_Source_FMP_FMPCharacter_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPCharacter_h_2244222080(TEXT("/Script/FMP"),
+	Z_CompiledInDeferFile_FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Game_Projects_BA3b_FMP_FMP_Source_FMP_FMPCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
